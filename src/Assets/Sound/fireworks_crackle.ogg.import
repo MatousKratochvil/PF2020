@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/fireworks_crackle.ogg-eca2f8ac3a909d7c58075dadc8b80577.oggstr"
+
+[deps]
+
+source_file="res://Assets/Sound/fireworks_crackle.ogg"
+dest_files=[ "res://.import/fireworks_crackle.ogg-eca2f8ac3a909d7c58075dadc8b80577.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

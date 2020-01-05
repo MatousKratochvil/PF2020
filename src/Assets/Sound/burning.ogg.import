@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/burning.ogg-94c52460459cfb8d550f8c82cc55540c.oggstr"
+
+[deps]
+
+source_file="res://Assets/Sound/burning.ogg"
+dest_files=[ "res://.import/burning.ogg-94c52460459cfb8d550f8c82cc55540c.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
